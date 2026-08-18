@@ -1,0 +1,13 @@
+# Build output
+build/
+.cache/
+
+# OS cruft
+.DS_Store
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Markdown / notes (docs, lesson write-ups, etc. — kept local only)
+*.md
